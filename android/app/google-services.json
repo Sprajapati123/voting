@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "790464749848",
+    "firebase_url": "https://voting-ab051-default-rtdb.firebaseio.com",
+    "project_id": "voting-ab051",
+    "storage_bucket": "voting-ab051.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790464749848:android:1f18833aa86653c61bbe6d",
+        "android_client_info": {
+          "package_name": "com.bravechains.electchain"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZWnzTL9lJTBKVGV5yyEV_SVubihHwo4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
